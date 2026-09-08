@@ -7,7 +7,7 @@ description = "kOS/Kerboscript support"
 
 [grammars.kerboscript]
 repository = "https://github.com/Amatsugu/zed-kos.git"
-rev = "5964ec2258284e80d3998fd8c8976e22ade346b0"
+rev = "8001b398aa5669177e07de2e016cbbb566fd97ee"
 
 [language_servers.kos-language-server]
 name = "kOS Language Server"
