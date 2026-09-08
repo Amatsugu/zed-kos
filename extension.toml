@@ -1,0 +1,14 @@
+id = "kerboscript"
+name = "Kerboscript (kOS)"
+version = "0.0.1"
+schema_version = 1
+authors = ["Amatsugu <amatsugu@example.com>"]
+description = "kOS/Kerboscript support"
+
+[grammars.kerboscript]
+repository = "file:///tree-sitter"
+rev = "0000000000000000000000000000000000000000"
+
+[language_servers.kos-language-server]
+name = "kOS Language Server"
+languages = ["Kerboscript"]

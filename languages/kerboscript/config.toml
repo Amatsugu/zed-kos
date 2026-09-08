@@ -1,0 +1,4 @@
+name = "Kerboscript"
+grammar = "kerboscript"
+path_suffixes = ["ks"]
+line_comments = ["// "]
